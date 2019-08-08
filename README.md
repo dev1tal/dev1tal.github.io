@@ -1,2 +1,2 @@
-# dev1tal.github.io
+# Sergey Pogoрелов
 Мой первый опубликованный сайт
